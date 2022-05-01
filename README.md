@@ -1,2 +1,1 @@
-# perms-calculator
-Discord Perms Calculator
+CREDITS - ELEVEN | elevenvac
